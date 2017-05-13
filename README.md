@@ -14,4 +14,4 @@ window manager.
 ## Future Work
 
 
-[awesome window manager]: http://awesome.naquadah.org/
+[awesome window manager]: https://awesomewm.org/
