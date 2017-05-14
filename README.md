@@ -60,6 +60,16 @@ termgrp.terminal = "urxvt"
 termgrp.dmenu = "dmenu"
 ```
 
+You may need to add following line to your initialization file
+to let awesome-termgrp read the title of terminal properly.
+
+In `~/.bashrc` if your are using `bash`,
+```bash
+PROMPT_COMMAND='echo -ne "\033]0;$PWD\007"'
+```
+
+Or you could modify `termgrp.group_manager_built_in.tmux.pattern_title`.
+
 ### Keybindings
 
 You can modify following keybindings and add them to `globalkeys`,
