@@ -60,8 +60,9 @@ termgrp.terminal = "urxvt"
 termgrp.dmenu = "dmenu"
 ```
 
-You may need to add following line to your initialization file
-to let awesome-termgrp read the title of terminal properly.
+If you want to make new windown start with the same directory 
+of the current one, You may need to add following line to your 
+initialization file.
 
 In `~/.bashrc` if your are using `bash`,
 ```bash
