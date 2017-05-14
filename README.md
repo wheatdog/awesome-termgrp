@@ -138,4 +138,4 @@ Figure out a better way to make Awesome understanding what tmux window/session i
 Support different terminal session managers like `screen` or `abduco`.
 
 [awesome window manager]: https://awesomewm.org/
-[st]: https://st.suckless.org/
+[st]: http://st.suckless.org/
