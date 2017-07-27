@@ -27,6 +27,7 @@ local tmux = {
     set-option status off \\; \z
     set-option set-titles on \\; \z
     set-option set-titles-string \"[#{session_group}:#{session_name}] #T\" \\; \z
+    set-window-option -g aggressive-resize on \\; \z
     "
 }
 
