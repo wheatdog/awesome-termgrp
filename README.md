@@ -14,7 +14,7 @@ to another window. There are some discussions on reddit like [this](https://www.
 and [this](https://www.reddit.com/r/awesomewm/comments/zj0ne/awesometmux_workflowhow_do_you_work/), and there are [some](https://news.ycombinator.com/item?id=12903652) in Hacker News too.
 It seems redundant to make two programs handle same thing.
 However, tmux has its usage. It can group up terminals to form sessions, 
-which is useful to manager projects. And it offers scorllback buffer feature
+which is useful to manager projects. And it offers scrollback buffer feature
 for simple terminal emulators like [st][].
 
 ## Screenshot
